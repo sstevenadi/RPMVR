@@ -52,10 +52,7 @@ public class NetworkedGrabbing : MonoBehaviourPunCallbacks, IPunOwnershipCallbac
         else
         {
             TransferOwnership();
-
         }
-
-
     }
 
     public void OnSelectExit()
